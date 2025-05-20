@@ -1,0 +1,9 @@
+# ninja log v6
+5	478	7694316528955319	build.ninja	64c460989bf9fa56
+42	188	7694316531432667	CMakeFiles/c_imagery_cmake.dir/launcher.c.obj	2aabba1b23256758
+57	190	7694316531572519	CMakeFiles/c_imagery_cmake.dir/t_bmp8/bmp.c.obj	c25b415e395499c3
+48	191	7694316531482499	CMakeFiles/c_imagery_cmake.dir/launcher_func.c.obj	6a7ee982b788a167
+53	207	7694316531542669	CMakeFiles/c_imagery_cmake.dir/t_bmp24/bmp.c.obj	c38f0d7e02146287
+209	372	7694316533097105	c_imagery_cmake.exe	40f5f93c84da88de
+6	126	7694318316364286	CMakeFiles/c_imagery_cmake.dir/launcher_func.c.obj	6a7ee982b788a167
+127	244	7694318317577486	c_imagery_cmake.exe	40f5f93c84da88de
